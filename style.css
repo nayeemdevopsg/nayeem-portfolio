@@ -1,0 +1,73 @@
+body{
+  margin: 0%;
+  padding: 0%;
+}
+.top-banner{
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.mid-banner{
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+ section{
+  height: 820px;
+}
+
+h1{
+
+  font-size: 50px;
+  font-family: "Lobster";
+}
+.half-width{
+  width: 40%;
+  float: left;
+  margin-left: 6%;
+  padding-left: 2%;
+}
+.half-width img{
+  width: 100%;
+}
+
+.hr{
+  background-color: orange;
+  font-family: Poppins;
+  text-decoration: none;
+  padding:6px 7px;
+  font-weight: 700;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  background-image: linear-gradient(45deg, rgba(236, 120, 12, 0.856), orange);
+}
+
+h2{
+  font-size: 50px;
+  font-family: "Lobster";
+}
+
+.sin{
+  
+  border-radius: 4px;
+  padding: 1%;
+  box-shadow: 10px 10px 40px gray;
+
+}
+
+.dob{
+  
+  border-radius: 4px;
+  padding: 1%;
+  box-shadow: 10px 10px 40px gray;
+}
+.last-banner{
+  width: 70%;
+  height: 98vh;
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  padding-left: 15%;
+
+}
